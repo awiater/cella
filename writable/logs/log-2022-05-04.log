@@ -1,0 +1,468 @@
+INFO - 2022-05-04 09:07:54 --> CSRF cookie sent.
+INFO - 2022-05-04 09:07:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:07:55 --> CSRF cookie sent.
+INFO - 2022-05-04 09:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:04 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:04 --> CSRF token verified.
+INFO - 2022-05-04 09:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:05 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:07 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:07 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:09 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:10 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:11 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:14 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:14 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:15 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:17 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:19 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:19 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:25 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:45 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:45 --> CSRF token verified.
+INFO - 2022-05-04 09:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:46 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:47 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:48 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:48 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:49 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:08:50 --> CSRF cookie sent.
+INFO - 2022-05-04 09:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:09:04 --> CSRF cookie sent.
+INFO - 2022-05-04 09:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:09:04 --> CSRF cookie sent.
+INFO - 2022-05-04 09:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:09:05 --> CSRF cookie sent.
+INFO - 2022-05-04 09:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:13 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:15 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:21 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:21 --> CSRF token verified.
+INFO - 2022-05-04 09:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:21 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:22 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:22 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:25 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:25 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:27 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:30 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:31 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:32 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:36 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:21:37 --> CSRF cookie sent.
+INFO - 2022-05-04 09:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:32:17 --> CSRF cookie sent.
+INFO - 2022-05-04 09:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:32:17 --> CSRF cookie sent.
+INFO - 2022-05-04 09:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 09:32:18 --> CSRF cookie sent.
+INFO - 2022-05-04 09:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:12 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:14 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:19 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:19 --> CSRF token verified.
+INFO - 2022-05-04 12:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 12:42:20 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`apdwms`.`movements_history`, CONSTRAINT `movements_history_mhuser_foreign` FOREIGN KEY (`mhuser`) REFERENCES `users` (`username`) ON UPDATE CASCADE) in /home/apdwms/public_html/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /home/apdwms/public_html/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /home/apdwms/public_html/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/apdwms/public_html/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/apdwms/public_html/system/Database/BaseBuilder.php(2107): CodeIgniter\Database\BaseConnection->query()
+#4 /home/apdwms/public_html/cella/Models/Warehouse/MovementsModel.php(78): CodeIgniter\Database\BaseBuilder->insertBatch()
+#5 /home/apdwms/public_html/cella/Libraries/Auth/FormAuth.php(149): CELLA\Models\Warehouse\MovementsModel->addItem()
+#6 /home/apdwms/public_html/cella/Controllers/BaseController.php(162): CELLA\Libraries\Auth\FormAuth->authenticate()
+#7 /home/apdwms/public_html/cella/Controllers/BaseController.php(108): CELLA\Controllers\BaseController->beforeInit()
+#8 /home/apdwms/public_html/system/CodeIgniter.php(909): CELLA\Controllers\BaseController->initController()
+#9 /home/apdwms/public_html/system/CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#10 /home/apdwms/public_html/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/apdwms/public_html/index.php(48): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-05-04 12:42:20 --> error_sql:INSERT INTO `movements_history` (`mhdate`, `mhfrom`, `mhinfo`, `mhref`, `mhto`, `mhtype`, `mhuser`, `type`) VALUES ('202205041242','http://apdwms.apdcw.local/dashboard','login','ryan@apdcw.co.uk',NULL,28,'ryan@apdcw.co.uk','user')
+INFO - 2022-05-04 12:42:21 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:21 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:25 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:26 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:28 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:34 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:36 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:37 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:45 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:46 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:42:46 --> CSRF cookie sent.
+INFO - 2022-05-04 12:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:43:20 --> CSRF cookie sent.
+INFO - 2022-05-04 12:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:43:20 --> CSRF cookie sent.
+INFO - 2022-05-04 12:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:16 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:16 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:32 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:32 --> CSRF token verified.
+INFO - 2022-05-04 13:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:33 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:35 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:35 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:36 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:36 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:37 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:43 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:44 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:45 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:50 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:51 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:52 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:53 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:55 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:51:56 --> CSRF cookie sent.
+INFO - 2022-05-04 13:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:08 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:08 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:09 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:14 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:18 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:18 --> CSRF token verified.
+INFO - 2022-05-04 13:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:18 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:18 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:19 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:23 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:24 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:52:25 --> CSRF cookie sent.
+INFO - 2022-05-04 13:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:39 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:39 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:40 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:49 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:49 --> CSRF token verified.
+INFO - 2022-05-04 13:59:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:50 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:50 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:51 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:57 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:58 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:59:59 --> CSRF cookie sent.
+INFO - 2022-05-04 13:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:03 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:03 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:04 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:05 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:07 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:07 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:09 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:10 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:11 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:15 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:15 --> CSRF token verified.
+INFO - 2022-05-04 14:00:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:15 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:16 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:17 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:25 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:25 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:26 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:28 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:30 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:30 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:48 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:48 --> CSRF token verified.
+INFO - 2022-05-04 14:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:48 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:49 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:50 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:51 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:00:52 --> CSRF cookie sent.
+INFO - 2022-05-04 14:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:01:55 --> CSRF cookie sent.
+INFO - 2022-05-04 14:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:01:55 --> CSRF cookie sent.
+INFO - 2022-05-04 14:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:01:56 --> CSRF cookie sent.
+INFO - 2022-05-04 14:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:19 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:19 --> CSRF token verified.
+INFO - 2022-05-04 14:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:20 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:20 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:21 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:24 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:26 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:26 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:29 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:30 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:30 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:36 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:37 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:37 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:42 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:43 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:44 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:47 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:47 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:48 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:49 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:51 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:02:52 --> CSRF cookie sent.
+INFO - 2022-05-04 14:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:03:33 --> CSRF cookie sent.
+INFO - 2022-05-04 14:03:33 --> CSRF token verified.
+INFO - 2022-05-04 14:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:03:33 --> CSRF cookie sent.
+INFO - 2022-05-04 14:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:03:34 --> CSRF cookie sent.
+INFO - 2022-05-04 14:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:03:35 --> CSRF cookie sent.
+INFO - 2022-05-04 14:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:03:37 --> CSRF cookie sent.
+INFO - 2022-05-04 14:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:03:38 --> CSRF cookie sent.
+INFO - 2022-05-04 14:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:14:17 --> CSRF cookie sent.
+INFO - 2022-05-04 14:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:14:17 --> CSRF cookie sent.
+INFO - 2022-05-04 14:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:14:18 --> CSRF cookie sent.
+INFO - 2022-05-04 14:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:32 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:32 --> CSRF token verified.
+INFO - 2022-05-04 14:22:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:33 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:33 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:34 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:36 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:37 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:38 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:40 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:41 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:22:42 --> CSRF cookie sent.
+INFO - 2022-05-04 14:22:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:28:26 --> CSRF cookie sent.
+INFO - 2022-05-04 14:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:28:29 --> CSRF cookie sent.
+INFO - 2022-05-04 14:28:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:28:39 --> CSRF cookie sent.
+INFO - 2022-05-04 14:28:39 --> CSRF token verified.
+INFO - 2022-05-04 14:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:28:44 --> CSRF cookie sent.
+INFO - 2022-05-04 14:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:29:33 --> CSRF cookie sent.
+INFO - 2022-05-04 14:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:29:34 --> CSRF cookie sent.
+INFO - 2022-05-04 14:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:29:38 --> CSRF cookie sent.
+INFO - 2022-05-04 14:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:29:39 --> CSRF cookie sent.
+INFO - 2022-05-04 14:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:29:57 --> CSRF cookie sent.
+INFO - 2022-05-04 14:29:57 --> CSRF token verified.
+INFO - 2022-05-04 14:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:29:58 --> CSRF cookie sent.
+INFO - 2022-05-04 14:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:29:58 --> CSRF cookie sent.
+INFO - 2022-05-04 14:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:36:17 --> CSRF cookie sent.
+INFO - 2022-05-04 14:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:36:17 --> CSRF cookie sent.
+INFO - 2022-05-04 14:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:36:18 --> CSRF cookie sent.
+INFO - 2022-05-04 14:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:49:24 --> CSRF cookie sent.
+INFO - 2022-05-04 14:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:49:26 --> CSRF cookie sent.
+INFO - 2022-05-04 14:49:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:51:05 --> CSRF cookie sent.
+INFO - 2022-05-04 14:51:05 --> CSRF token verified.
+INFO - 2022-05-04 14:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:51:05 --> CSRF cookie sent.
+INFO - 2022-05-04 14:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:51:07 --> CSRF cookie sent.
+INFO - 2022-05-04 14:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:54:39 --> CSRF cookie sent.
+INFO - 2022-05-04 14:54:39 --> CSRF token verified.
+INFO - 2022-05-04 14:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:54:40 --> CSRF cookie sent.
+INFO - 2022-05-04 14:54:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 14:54:41 --> CSRF cookie sent.
+INFO - 2022-05-04 14:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:23:21 --> CSRF cookie sent.
+INFO - 2022-05-04 15:23:21 --> CSRF token verified.
+INFO - 2022-05-04 15:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:23:21 --> CSRF cookie sent.
+INFO - 2022-05-04 15:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:23:22 --> CSRF cookie sent.
+INFO - 2022-05-04 15:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:23:22 --> CSRF cookie sent.
+INFO - 2022-05-04 15:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:24:43 --> CSRF cookie sent.
+INFO - 2022-05-04 15:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:24:43 --> CSRF cookie sent.
+INFO - 2022-05-04 15:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:24:43 --> CSRF cookie sent.
+INFO - 2022-05-04 15:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:10 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:10 --> CSRF token verified.
+INFO - 2022-05-04 15:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:11 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:11 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:12 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:13 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:14 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:15 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:18 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:19 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:20 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:20 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:22 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:23 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:26 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:26 --> CSRF token verified.
+INFO - 2022-05-04 15:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:26 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:27 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:28 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:28 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:28 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 15:31:29 --> CSRF cookie sent.
+INFO - 2022-05-04 15:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

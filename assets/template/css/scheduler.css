@@ -1,0 +1,62 @@
+.scheduler_boards_container .card-header {
+ 	color:#FFD700!important;
+ }
+ 
+ .scheduler_boards_container .cell {
+ 	height:60px!important;
+ 	min-height:57px!important;
+ }
+ 
+ .scheduler_boards_container .card_tolltip{
+ 	display:none;
+ 	text-align:left!important;	
+ }
+ .scheduler_boards_container .overlay{
+        width: 100%;
+        height: 100%;            
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color:#000;
+        color:#FFF;
+        opacity: 0.5;
+        z-index:2;
+    }
+ .scheduler_boards_container .overlay_container{
+        width: 100%;
+        height: 100%;            
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+ .scheduler_boards_container .overlay_i{
+        width: 100%;
+        height: 100%;            
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color:transparent;
+        color:#FFF;
+        opacity: 1;
+        z-index:3;
+        display: flex;
+  		justify-content: center;
+  		align-items: center;
+    }
+
+.scheduler_boards_container .tooltipButton,.scheduler_boards_container .editButton{
+    	color:#FFF!important;
+    }
+    
+ .scheduler_card_avaliable_to_drop{
+ 	background-color:yellow!important;	
+ }
+ 
+.fullscreen{
+    z-index: 9999; 
+    width: 100%; 
+    height: 100%; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+ }

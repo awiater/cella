@@ -1,0 +1,4 @@
+INFO - 2022-05-21 16:29:21 --> CSRF cookie sent.
+INFO - 2022-05-21 16:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-21 16:29:22 --> CSRF cookie sent.
+INFO - 2022-05-21 16:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

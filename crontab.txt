@@ -1,0 +1,1 @@
+*/5 * * * * /usr/bin/fetch --no-verify-hostname --no-verify-peer -o /dev/null https://portal.apdcw.co.uk/cron.php
